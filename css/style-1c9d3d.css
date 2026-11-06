@@ -1,0 +1,1123 @@
+.gh-section-6.pb-0 {
+  padding-top: 230px;
+  background-image: linear-gradient(#00000078, #00000078), url("https://vasayurvedicclinic.com/wp-content/themes/hello-elementor/assets/images/freepik__the-style-is-candid-image-photography-with-natural__20830.png");
+}
+.mt-20
+{
+  margin-top: 20px;
+}
+
+.mt-100
+{
+  margin-top: 100px;
+}
+.mb-100 {
+margin-bottom: 100px;
+}
+/*.column-42 {*/
+  
+/*    padding-left: 0px;*/
+  
+/*}*/
+.related-service .content-wrapper
+{
+  background-color: #0b233f;
+  color: #fff !important;
+}
+.related-service .description
+{
+  color: #fff !important;
+  font-size: 18px;
+}
+.service .description
+{
+  color: #000 !important;
+  font-size: 18px;
+  margin-top: auto;
+}
+.related-service
+{
+   margin-top: -350px;
+}
+.service .gh-heading {
+  font-size: 42px;
+}
+.service .image-27 {
+border-top-left-radius: 80px;
+margin-right: 0;
+display: block;
+border-radius: 120px 20px 20px 20px;
+/*width: 100%;*/
+height : auto;
+}
+.service-section2
+{
+  background-color: #0b233f;
+  /*border-radius: 30px 130px 30px 40px;*/
+  border-radius: 48px 120px 12px 12px;
+  margin-top: -150px;
+height: -275px;
+margin-left: 40px;
+}
+.service-section2 .gh-section-about-banner-text
+{
+  color: #fff;
+}
+
+
+.col-lg-6  {
+width: 50%;
+}
+@media screen and (min-width: 1920px) {
+.gh-section-about-banner-text {
+  max-width: none;
+  padding-left: 0;
+  font-family: Marcellus, sans-serif;
+  font-size: 1.2rem;
+  line-height: 35px;
+}
+}
+.faq {
+margin: 0;
+min-height: 100%;
+background-color: #ffe1bc !important;
+padding-top: 110px !important;
+padding-bottom: 99px;
+}
+.service
+{
+margin: 0;
+min-height: 100%;
+background-color: #ffe1bc52  !important;
+padding-top: 70px !important;
+}
+.service .gh-heading {
+  margin-bottom: 16px;
+  font-family: Marcellus, sans-serif;
+  font-size: 42px;
+  line-height: 54px;
+}
+.faq .gh-heading {
+  margin-bottom: 16px;
+  font-family: Marcellus, sans-serif;
+  font-size: 42px;
+  line-height: 40px;
+  text-align: center;
+}
+.service-section2 .gh-section-banner-inner
+{
+   padding: 35px 35px;
+}
+.service-section2 li
+{
+   color:#feb051;
+   font-family: Lato, Trebuchet MS, sans-serif;
+}
+.service-section2 .text-block-23
+{
+   color:#feb051;
+}
+
+
+.title-service {
+  padding-top: 20px;
+}
+.service .w-col-4 {
+width: 29%;
+}
+svg {
+height: 28px;
+fill: #feb051;
+padding-top: 17px;
+}
+.footer-flex-container svg {
+height: 60px !important;
+fill: #feb051;
+padding-top: 10px;
+}
+ul {
+margin-top: 6px;
+margin-bottom: 10px;
+padding-left: 5px;
+list-style-type: none;
+}
+.elementor-icon-list-icon
+{
+padding-inline-end: 12px;
+}
+.image-24
+{
+display:none;
+}
+a:hover {
+color: #fff;
+}
+.gap-2 {
+gap: .5rem !important;
+}
+.flex-column {
+flex-direction: column !important;
+}
+.d-flex {
+display: flex !important
+;
+}
+.utility-image-cover {
+border-radius: 15px;
+}
+.heading-20 {
+color: #0b233f;
+
+}
+.service-section3 {
+/*border-radius: 30px 130px 30px 40px;*/
+border-radius: 20px 20px 20px 20px;
+margin-top: 27px;
+margin-left: 43px;
+text-align: center;
+}
+.service-section3 .gh-section-about-banner-text
+{
+  color: #000;
+}
+.service-section3 .gh-section-banner-inner
+{
+   padding: 25px 0px;
+}
+.service-section3 li
+{
+   color:#000;
+   font-family: Lato, Trebuchet MS, sans-serif;
+}
+.service-section3 .text-block-23
+{
+   color:#000;
+}
+.rbt-btn {
+padding: 10px 102px 50px 118px;
+background: #0b233f;
+height: 75px;
+line-height: 60px;
+color: #feb051;
+font-size: 16px;
+letter-spacing: 0.5px;
+font-weight: 500;
+display: inline-block;
+position: relative;
+z-index: 1;
+transition: all 0.4s ease-in-out;
+border-radius: 6px;
+font-weight: 600;
+text-decoration: none;
+width: 350px;
+}
+.radius {
+  border-radius: 20px !important;
+}
+.rbt-article-content-wrapper {
+  padding: 55px 100px;
+  background: #fff;
+  box-shadow: var(--shadow-2);
+  padding-top: 43px;
+  overflow: hidden;
+  margin-top: -122px;
+}
+.alignwide {
+  margin-left: -100px;
+  margin-right: -100px;
+  max-width: 1400px;
+  width: auto;
+}
+.mb--70 {
+  margin-bottom: 70px !important;
+}
+.mt--70 {
+  margin-top: 70px !important;
+}
+.position-relative {
+  position: relative !important;
+}.rbt-article-content-wrapper .why-us p {
+  padding: 0px 45px;
+  text-align: justify;
+}
+p {
+  font-size: 18px;
+  line-height: 1.45;
+  margin-bottom: 30px;
+  font-size: 1.25rem;
+}
+.rbt-section-overlayping-top {
+  margin: -157px auto 0;
+  position: relative;
+  z-index: 2;
+}
+.rbt-section-gap {
+  padding: 120px 0;
+}
+.mt--80 {
+  margin-top: 80px !important;
+}
+
+.g-5, .gy-5 {
+  --bs-gutter-y: 3rem;
+}
+.g-5, .gx-5 {
+  --bs-gutter-x: 3rem;
+}
+.pb-180
+{
+  padding-bottom: 185px;
+}
+.service-section4
+{
+background-color: #f6f6f6;
+padding-top: 70px;
+padding-bottom: 70px;
+box-shadow: 0px 6px 34px rgba(215, 216, 222, 0.41);
+}
+.features .scroll-card {
+  border-radius: 16px !important;
+  height: 328.656px !important;
+}
+.content-wrapper {
+  flex: 1;
+  width: 100%;
+  padding: 1rem !important;
+  position: relative;
+  background-color: #fff !important;
+  
+  border-radius: 16px !important;
+}
+.features .full-image {
+  object-fit: cover;
+  width: 20%;
+  height: 75px;
+  /*padding-left: 173px;*/
+}
+.features .card-item {
+  border-radius: .25rem;
+  width: auto;
+  height: 22rem;
+  position: relative;
+  overflow: hidden;
+}
+.features .description {
+  padding-top: 0px;
+  
+}
+.features .heading-20 {
+  padding-top: 20px;
+}
+.features .media-wrapper {
+  width: 100%;
+  height: 0px;
+  position: relative;
+  inset: 0% 0% auto;
+}
+.features .description {
+  color: #1d1d1f;
+  font-size: 18px;
+  opacity: unset;
+}
+.service-section4 .gh-heading {
+  color: #fff;
+  text-align: center;
+}
+
+.gh-heading 
+{
+  margin-bottom: 45px;
+  font-family: Marcellus, sans-serif;
+  font-size: 56px;
+  line-height: 58px;
+}
+.accordion 
+{
+width: 100%;
+max-width: 900px;
+/*border: 1px solid #ddd;*/
+border-radius: 5px;
+overflow: hidden;
+}
+.accordion-item {
+display: flex
+;
+flex-direction: column;
+border-bottom: 1px solid #ddd;
+margin-bottom: 10px;
+border: 1px solid #ddd;
+border-radius: 12px;
+}
+.accordion-item:last-child {
+  border-bottom: none;
+}
+.accordion-header {
+  background-color: unset;
+  padding: 25px;
+  cursor: pointer;
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+  color: #000;
+}
+.accordion-content {
+  display: none;
+  padding: 15px;
+  background: unset;
+  font-family: Marcellus, sans-serif;
+}
+.accordion-header.active {
+  background-color: unset;
+}
+.arrow {
+  transition: transform 0.3s ease;
+  position: absolute;
+  right: 40px;
+}
+.active .arrow {
+  transform: rotate(90deg);
+}
+.gh-bread-crumb-text {
+color: #fff;
+}
+.gh-container-breadcrumb {
+  margin-top: -160px;
+  text-align: center;
+}
+.banner a {
+color: #fff;
+}
+.banner h2 
+{
+  color:#fff;
+  font-family: Marcellus, sans-serif;
+}
+
+
+@media (max-width: 767px) {
+/*         .mb-100 {*/
+/*    margin-bottom: 0px !important;*/
+/*}*/
+/* .mt-100 {*/
+/*    margin-top: 35px !important;*/
+/*}*/
+.gh-section-6.pb-0 
+{
+ background-size: cover;
+}
+.service {
+padding-top: 0px !important;
+}
+.service-section2 {
+border-radius: 30px 130px 30px 40px;
+margin-top: 42px;
+height: auto;
+margin-left: 0px;
+width: 360px;
+}
+.rbt-btn {
+width: 330px;
+}
+.w-col-4 {
+width: 100%;
+}
+.container {
+  text-align: left;
+  font-family: Plus Jakarta Sans, sans-serif;
+}
+.service-section3 {
+margin-bottom: 40px;
+}
+.arrow {
+transition: transform 0.3s ease;
+position: absolute;
+right: 20px;
+}
+.col-lg-6 {
+width: 100%;
+}
+.container {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0px;
+}
+.service-section4 {
+padding-top: 15px;
+padding-bottom: 0px;
+box-shadow: 0px 6px 34px rgba(215, 216, 222, 0.41);
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+right: 804px !important;
+left: auto;
+}
+.container-default {
+  width: auto;
+  
+}
+.swiper .swiper-button-prev
+{
+  display: none;
+}
+.title-service .gh-heading {
+margin-bottom: 20px;
+font-family: Marcellus, sans-serif;
+font-size: 42px;
+line-height: 58px;
+}
+.gallery .gh-heading {
+text-align: unset !important;
+margin-bottom: 40px !important;
+font-family: Marcellus, sans-serif !important;
+font-size: 40px !important;
+line-height: 0px !important;
+}
+.gallery .title-service {
+padding-top: 0px !important;
+}
+.faq .title-service {
+padding-top: 50px;
+}
+
+.service-section3 {
+  border-radius: 12px 12px 12px 12px;
+  margin-top: 42px;
+  height: auto;
+  margin-left: 0px;
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+right: 729px !important;
+left: auto;
+}
+.service .gh-heading {
+font-size: 36px;
+}
+.service .title-service {
+padding-top: 50px;
+}
+.section-11 .pd---content-inside-card-2
+{
+width: 430px;
+}
+
+}
+
+
+
+
+
+/* Ensure the slider container is positioned correctly */
+.swiper-container {
+position: relative;
+overflow: visible !important; /* Allow arrows to be visible */
+}
+
+/* Style navigation arrows */
+.swiper-button-prev,
+.swiper-button-next {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+width: 50px;
+height: 50px;
+background-color: #f4b400; /* Adjust as needed */
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+z-index: 10;
+}
+
+/* Move arrows further outside */
+.swiper-button-prev {
+left: -50px; /* Adjust as needed */
+}
+
+.swiper-button-next {
+right: -50px; /* Adjust as needed */
+}
+
+/* Prevent arrows from being cut off */
+.swiper-wrapper {
+overflow: visible !important;
+}
+
+/* Ensure parent container does not hide arrows */
+.swiper-container-parent {
+overflow: visible !important;
+}
+
+/*slider*/
+.slider-container {
+      width: 80%;
+      max-width: 900px;
+      position: relative;
+  }
+
+  .swiper {
+      padding: 20px 0;
+  }
+
+  .swiper-slide {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #fff;
+      border-radius: 10px;
+      overflow: hidden;
+  }
+
+  .swiper-slide img {
+      width: auto;
+      height: auto;
+      object-fit: cover;
+  }
+
+  /* Swiper Navigation */
+  .swiper-button-next,
+  .swiper-button-prev {
+      color: #333;
+      background: rgba(255, 255, 255, 0.8);
+      padding: 10px;
+      border-radius: 50%;
+      font-size: 18px;
+      width: 40px;
+      height: 40px;
+  }
+
+  .swiper-button-next:hover,
+  .swiper-button-prev:hover {
+      background: rgba(0, 0, 0, 0.8);
+      color: #fff;
+  }
+  
+
+
+.swiper-button-next, .swiper-button-prev {
+position: absolute;
+top: 329px !important;
+width: 40px !important;
+height: 40px !important;
+margin-top: calc(0px -(var(--swiper-navigation-size) / 2));
+z-index: 10;
+cursor: pointer;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #0d2541 !important;
+}
+.swiper-button-next:after, .swiper-button-prev:after {
+font-size: 30px !important;
+}
+.swiper-button-next, .swiper-button-prev {
+background: rgb(246 192 114) !important;
+padding: 21px !important;
+}
+.gh-heading {
+color: #0b233f !important;
+}
+.service-section2 a {
+color: #feb051;
+text-decoration: none;
+transition: opacity .2s;
+font-weight: 600;
+display: inline-block;
+}
+.service-section2 a:hover {
+color: #fff;
+text-decoration: none;
+transition: opacity .2s;
+font-weight: 600;
+display: inline-block;
+}
+.gallery .gh-heading {
+color: #fff;
+text-align: center;
+}
+/*Menu*/
+@media screen and (min-width: 1920px) {
+/* .menu {
+  margin-left: 650px !important;
+} */
+}
+@media screen and (min-width: 1920px) {
+.navigation.gh-home-navigation {
+  background-color: #0b233f !important;
+}
+}
+@media screen and (min-width: 1920px) {
+.footer {
+  background-color: #0b233f !important;
+}
+}
+
+
+
+/*why us*/
+.paragraph1 {
+opacity: 1;
+color: #555554;
+margin-left: auto;
+margin-right: auto;
+font-family: Marcellus, sans-serif;
+font-size: 19px;
+font-weight: 500;
+}
+@media screen and (min-width: 1920px) {
+.container-whyus {
+  max-width: 1245px;
+  font-family: Plus Jakarta Sans, sans-serif;
+}
+}
+@media (max-width: 767px) {
+.container-whyus {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 30px;
+}
+}
+
+@media (max-width: 767px) {
+.container-whyus {
+  text-align: left;
+  font-family: Plus Jakarta Sans, sans-serif;
+}
+.card-link{
+  height: auto !important;
+}
+}
+.mt-90
+{
+padding-top: 90px;
+}
+@media screen and (min-width: 1920px) {
+.container-whyus .gh-section-about-banner-text {
+  max-width: none;
+  padding-left: 0;
+  font-family: Plus Jakarta Sans, sans-serif;
+}
+}
+.pd---content-inside-card-2 {
+background-color: #fff;
+border: 1px solid #eff0f6;
+border-radius: 0px 0px 24px 24px;
+box-shadow: 0 2px 7px #14142b0f;
+}
+.mySwiper 
+element.style {
+}
+.text-200.bold.color-neutral-800.mg-bottom-8px {
+font-size: 24px;
+
+}
+.treatment-section a:hover {
+color: #efa65d;
+}
+.specialities .dropdown-content {
+display: none;
+position: absolute;
+background-color: #fec77e;
+min-width: 293px !important;
+box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+z-index: 1;
+padding: 15px;
+}
+.dropdown-content a {
+color: black;
+padding: 12px 12px;
+text-decoration: none;
+display: block;
+line-height: 22px !important;
+}
+.mobile-menu .navigation li.dropdown .dropdown-btn.open {
+color: #ffffff;
+-webkit-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+transform: rotate(90deg);
+}
+.mobile-menu .navigation li.dropdown .dropdown-btn {
+position: absolute;
+right: 6px;
+top: 6px;
+width: 32px;
+height: 32px;
+text-align: center;
+font-size: 16px;
+line-height: 32px;
+color: #ffffff;
+background: rgba(255, 255, 255, 0.10);
+cursor: pointer;
+border-radius: 2px;
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
+z-index: 5;
+}
+.main-menu {
+float: left;
+margin-right: 21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Basic Styling */
+/*.navigation-items {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*.navigation-item {*/
+/*    padding: 10px 20px;*/
+/*    text-decoration: none;*/
+display: inline-flex; /* Make menu items use inline-flex */
+align-items: center; /* Align the text and icon horizontally */
+/*}*/
+
+/* Dropdown Styles */
+/*.dropdown {*/
+/*    position: relative;*/
+display: inline-flex; /* Keep dropdown inline */
+/*}*/
+
+/*.dropdown-content {*/
+/* position: absolute; */
+/*    background-color: #fec77e !important;*/
+/*    min-width: 293px !important;*/
+/* box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); */
+/*    z-index: 1 !important;*/
+/*    padding: 15px !important;*/
+/*}*/
+
+/*.dropdown-content a {*/
+/*    padding: 10px;*/
+/*    text-decoration: none;*/
+/*    color: black;*/
+/*}*/
+
+/* Mobile and Desktop Styling */
+/*@media (max-width: 768px) {*/
+/*    .navigation-items {*/
+  display: none; /* Hide the menu by default */
+/*        flex-direction: column;*/
+/*        width: 100%;*/
+/*        background-color: #333;*/
+/*    }*/
+
+/*    .navigation-item {*/
+/*        color: white;*/
+/*        padding: 15px;*/
+/*        text-align: center;*/
+/*        width: 100%;*/
+/*        border-bottom: 1px solid #ccc;*/
+/*    }*/
+
+/* Show menu when toggled */
+/*    .navigation-items.show {*/
+/*        display: flex;*/
+/*    }*/
+
+/* Show dropdown content when clicked on the main item */
+/*    .dropdown.show .dropdown-content {*/
+  display: block; /* Show the dropdown when it has the 'show' class */
+/*    }*/
+
+/* Show icon next to menu items */
+/*    .submenu-toggle {*/
+  display: inline-flex; /* Make the icon inline */
+/*        margin-left: 80px;*/
+/*        font-size: 18px;*/
+/*        color: white;*/
+/*        cursor: pointer;*/
+  align-items: center; /* Ensure the icon aligns with the text */
+/*    }*/
+
+/*    .hamburger-menu {*/
+/*        display: block;*/
+/*        cursor: pointer;*/
+/*        padding: 10px;*/
+/*    }*/
+
+/*    .bar {*/
+/*        width: 25px;*/
+/*        height: 3px;*/
+/*        background-color: white;*/
+/*        margin: 4px 0;*/
+/*    }*/
+/*}*/
+
+/* Default State (Visible for larger screens) */
+/*@media (min-width: 769px) {*/
+/*    .hamburger-menu {*/
+  display: none; /* Hide hamburger menu on desktop */
+/*    }*/
+
+/* Desktop: Allow links to navigate */
+/*    .dropdown .dropdown-content {*/
+/*        display: none;*/
+/*    }*/
+
+/* Show dropdown on click, not hover */
+/*    .dropdown.show .dropdown-content {*/
+/*        display: block;*/
+/*    }*/
+/*}*/
+
+/*.dropdown-content {*/
+/*    display: block;*/
+/*    margin-top: 30PX;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile and Desktop Styling */
+/*@media (max-width: 768px) {*/
+
+
+/* Show menu when toggled */
+/*    .navigation-items.show {*/
+/*        display: flex;*/
+/*    }*/
+
+/* Show dropdown content when clicked on the main item */
+/*    .dropdown.show .dropdown-content {*/
+  display: block; /* Show the dropdown when it has the 'show' class */
+/*    }*/
+
+/* Show icon next to menu items */
+/*    .submenu-toggle {*/
+  display: inline-flex; /* Make the icon inline */
+/*        margin-left: 10px;*/
+/*        font-size: 18px;*/
+/*        color: white;*/
+/*        cursor: pointer;*/
+  align-items: center; /* Ensure the icon aligns with the text */
+/*    }*/
+
+/*    .hamburger-menu {*/
+/*        display: block;*/
+/*        cursor: pointer;*/
+/*        padding: 10px;*/
+/*    }*/
+
+/*    .bar {*/
+/*        width: 25px;*/
+/*        height: 3px;*/
+/*        background-color: white;*/
+/*        margin: 4px 0;*/
+/*    }*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Dropdown Styles */
+.dropdown {
+position: relative;
+display: inline-flex; /* Keep dropdown inline */
+}
+
+.dropdown-content {
+display: none; /* Hide the submenu by default */
+background-color: #fec77e !important;
+min-width: 293px !important;
+z-index: 1 !important;
+padding: 15px !important;
+margin-top: 0px;
+}
+
+.dropdown-content a {
+padding: 10px;
+text-decoration: none;
+color: black;
+}
+
+/* Mobile and Desktop Styling */
+@media (max-width: 768px) {
+.navigation-items {
+  display: none; /* Hide the menu by default */
+  flex-direction: column;
+  width: 100%;
+  background-color: #333;
+}
+
+.navigation-item {
+  color: white;
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Show menu when toggled */
+.navigation-items.show {
+  display: flex;
+}
+
+/* Show dropdown content when clicked on the main item */
+.dropdown.show .dropdown-content {
+  display: block; /* Show the dropdown when it has the 'show' class */
+}
+
+/* Show icon next to menu items */
+.submenu-toggle {
+  display: inline-flex; /* Make the icon inline */
+  margin-left: 10px;
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+  align-items: center; /* Ensure the icon aligns with the text */
+}
+
+.hamburger-menu {
+  display: block;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 4px 0;
+}
+}
+
+/* Default State (Visible for larger screens) */
+@media (min-width: 769px) {
+.hamburger-menu {
+  display: none; /* Hide hamburger menu on desktop */
+}
+
+/* Desktop: Allow links to navigate */
+.dropdown .dropdown-content {
+  display: none;
+}
+
+/* Show dropdown on click, not hover */
+.dropdown.show .dropdown-content {
+  display: block;
+}
+}
+
+
+.swiper-slide a {
+color: #1a1b1f;
+text-decoration: none;
+transition: opacity .2s;
+display: block;
+}
+
+.swiper-slide a:hover {
+color: #f6c072 !important;
+}
+
+
+.speciality-grid .description {
+
+opacity: .75;
+color: #1d1d1f;
+letter-spacing: -.025em;
+margin-top: 0px !important;
+margin-bottom: 0;
+font-family: Marcellus, sans-serif;
+font-size: 1.25rem;
+font-weight: 400;
+line-height: 1.5;
+
+}
+.three-lines {
+display: -webkit-box;
+-webkit-line-clamp: 3;
+-webkit-box-orient: vertical;
+overflow: hidden;
+}
+.aboutus-image
+{
+padding-top: 84px;
+}
+p a:hover {
+color: #0b233f !important;
+text-decoration: none;
+transition: opacity .2s;
+display: inline;
+}
+p a {
+color: #e4b77b;
+text-decoration: none;
+transition: opacity .2s;
+display: inline;
+}
+.description a:hover {
+color: #0b233f !important;
+text-decoration: none;
+transition: opacity .2s;
+display: inline;
+}
+.description a {
+color: #e4b77b;
+text-decoration: none;
+transition: opacity .2s;
+display: inline;
+}
+.container-footer
+{
+max-width: 1150px;
+}
+.div-block-32
+{
+padding-right: 100px;
+}
+.footer-link {
+font-size: 19px;
+}
+.image-33 {
+margin-left: 295px;
+}
+
+.banner h1 {
+color: #fff;
+font-family: Marcellus, sans-serif;
+}
+.banner h1 {
+margin-top: 10px;
+margin-bottom: 10px;
+font-size: 36px;
+font-weight: 400;
+line-height: 50px;
+}
+.blog-sidebar .service-section2{
+    margin-top: 0 !important;
+}
