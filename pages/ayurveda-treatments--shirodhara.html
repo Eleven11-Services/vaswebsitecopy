@@ -6063,7 +6063,7 @@ Call now to schedule your Shirodhara treatment
 						<div class="elementor-element elementor-element-32ff9a3 elementor-widget elementor-widget-shortcode" data-id="32ff9a3" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-shortcode"><section class="related-treatments-slider">
-    <div class="swiper related-treatment-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+    <div data-cw="1310" class="swiper related-treatment-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
         <div class="swiper-wrapper" id="swiper-wrapper-2ccac5c26e115b9f" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-332.5px, 0px, 0px);">
 
         
@@ -6542,6 +6542,25 @@ Shop no:3,4,5<br>
   if(!open){c.style.display='block';t.classList.add('elementor-active')}
  }));
  document.querySelectorAll('video').forEach(v=>{v.muted=true;v.play&&v.play().catch(()=>{})});
+})();
+/* Keep captured sliders proportional when the window is wider/narrower than the 1440px capture */
+(function(){
+ function fit(){
+  document.querySelectorAll('.swiper-wrapper').forEach(w=>{
+   const c=w.parentElement; const C0=+c.getAttribute('data-cw'); if(!C0) return;
+   const C=c.getBoundingClientRect().width; if(!C) return;
+   const slides=[...w.children].filter(s=>s.classList.contains('swiper-slide'));
+   if(!slides.length) return;
+   if(!w.hasAttribute('data-otf')){w.setAttribute('data-otf',w.style.transform||'');slides.forEach(s=>{s.setAttribute('data-ow',parseFloat(s.style.width)||0);s.setAttribute('data-otf',s.style.transform||'')})}
+   const k=C/C0; if(Math.abs(k-1)<0.002){w.style.transform=w.getAttribute('data-otf');slides.forEach(s=>{const ow=+s.getAttribute('data-ow');if(ow)s.style.width=ow+'px';s.style.transform=s.getAttribute('data-otf')});return}
+   const s0=slides[0]; const ow=+s0.getAttribute('data-ow'); if(!ow) return;
+   const mr=parseFloat(s0.style.marginRight)||0; const nw=ow*k;
+   slides.forEach(s=>{const o=+s.getAttribute('data-ow');if(o)s.style.width=(o*k)+'px';const t=s.getAttribute('data-otf');if(t)s.style.transform=t.replace(/translate3d\(\s*(-?[\d.]+)px/,(m,x)=>'translate3d('+(x*k)+'px')});
+   const t=w.getAttribute('data-otf'); const m=t.match(/translate3d\(\s*(-?[\d.]+)px/);
+   if(m){const idx=Math.round(-parseFloat(m[1])/(ow+mr));w.style.transform=t.replace(m[0],'translate3d('+(-idx*(nw+mr))+'px')}
+  });
+ }
+ fit(); addEventListener('load',fit); addEventListener('resize',fit);
 })();
 
 (function(){document.querySelectorAll('a[href^="http"]').forEach(a=>{a.target='_blank';a.rel='noopener'})})();

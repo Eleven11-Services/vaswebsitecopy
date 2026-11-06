@@ -38,5 +38,5 @@ window.AUDIT_GLOBAL = {
  ]
 };
 
-window.AUDIT_PAGES=[{"slug":"home","name":"Home","path":"/","group":"Main pages","c":[8,24,9]},{"slug":"about-vas-ayurvedic-clinic","name":"About Us","path":"/about-vas-ayurvedic-clinic/","group":"Main pages","c":[1,4,5]},{"slug":"ayurveda-treatments--shirodhara","name":"Shirodhara Ayurvedic Treatment in Dubai","path":"/ayurveda-treatments/shirodhara/","group":"Treatments","c":[2,11,7]},{"slug":"detox-treatment--ayurvedic-detox-treatment-in-dubai","name":"Ayurvedic Detox Treatment in Dubai","path":"/detox-treatment/ayurvedic-detox-treatment-in-dubai/","group":"Blog","c":[1,4,4]}];
+window.AUDIT_PAGES=[{"slug":"home","name":"Home","path":"/","group":"Main pages","c":[9,24,9]},{"slug":"about-vas-ayurvedic-clinic","name":"About Us","path":"/about-vas-ayurvedic-clinic/","group":"Main pages","c":[1,4,5]},{"slug":"ayurveda-treatments--shirodhara","name":"Shirodhara Ayurvedic Treatment in Dubai","path":"/ayurveda-treatments/shirodhara/","group":"Treatments","c":[2,11,7]},{"slug":"detox-treatment--ayurvedic-detox-treatment-in-dubai","name":"Ayurvedic Detox Treatment in Dubai","path":"/detox-treatment/ayurvedic-detox-treatment-in-dubai/","group":"Blog","c":[1,4,4]}];
 window.AUDIT_HOSTED=1;
